@@ -1,1 +1,2 @@
-modifying the file in master for merging purpose
+modifying the file in master for merging purpose 
+adding few comment for merging purpose
